@@ -1,0 +1,3 @@
+[submodule "1_AdHoc_Analysis"]
+	path = 1_AdHoc_Analysis
+	url = https://github.com/bcgov/SDD_PLMS
