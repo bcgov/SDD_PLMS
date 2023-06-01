@@ -34,3 +34,5 @@ git commit-m "commit message"
 git push
 
 > 7. Create a pull request: If you want to merge your changes into another branch (usually the main branch), you will need to create a pull request. Go to your repository on GitHub, click on the "Pull requests" tab, and click on the "New pull request" button. Follow the instructions to create a new pull request.
+  
+> 8. Create a pull request for your code to be reviewed and merged into the main branch
