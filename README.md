@@ -7,4 +7,6 @@
 > * <ins> Ad hoc analysis <ins>
 > > These are requests for data analysis that are not due to an on going project, but arise from the needs of either the business or the executives. These requests could require quick or extensive analysis.
 > * <ins> Projects <ins>
+  > > These are analyses that are part of a projects. The project could be internal to data team, PLMS or external 
 > * <ins> Production <ins>
+  > > Productions are scripts that are run to generate attributes, which are uploaded to the ICM for further actions by the QCS
